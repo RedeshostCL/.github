@@ -2,7 +2,7 @@
 
 Bienvenido al GitHub oficial de **Redeshost**. Diseñamos, optimizamos y gestionamos infraestructura crítica en Linux, contenedores y bases de datos, garantizando alta disponibilidad y seguridad para tu negocio.
 
-[🌐 Visitar Sitio Web](https://redeshost.cl) • [📧 Contáctanos por Email](mailto:contacto@redeshost.cl) • [💬 Agendar una Consultoría](https://redeshost.cl/#contacto)
+[🌐 Visitar Sitio Web](https://redeshost.cl) • [📧 Contáctanos por Email](mailto:contacto@redeshost.cl) • [💬 Agendar una Consultoría](https://redeshost.cl/#contact)
 
 ---
 
